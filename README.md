@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🤔 I'm a software engineer at [@microsoft](https://github.com/microsoft)
+- 💬 Ask me about .NET or C# programming.
+- 🌱 I'm learning [blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) and trying to make contribution to this community.
+- 📫 How to reach me: [Twitter](https://twitter.com/home)
 <!--
 **gaufung/gaufung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
