@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🤔 I'm a software engineer at [@microsoft](https://github.com/microsoft)
-- 💬 Ask me about .NET or C# programming.
-- 🌱 I'm learning [blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) and trying to make contribution to this community.
+- 💬 Ask me about .NET or C# programming. 
+- 🌱 I'm learning Typescript and ASP.NET Core source code. 
 - 📫 How to reach me: [Twitter](https://twitter.com/home)
 - 💬 Blog: [Medium](https://medium.com/@fenga)
 <!--
