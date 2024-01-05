@@ -4,7 +4,7 @@
 - 💬 Ask me about .NET or C# programming. 
 - 🌱 I'm learning Typescript and ASP.NET Core source code. 
 - 📫 How to reach me: [Twitter](https://twitter.com/gaufung)
-- 💬 Blog: [Medium](https://medium.com/@fenga)
+- 💬 Blog: [Blog](https://www.fungkao.net)
 <!--
 **gaufung/gaufung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
